@@ -1,10 +1,14 @@
-<h1> Hello All, Welcome to Harsha Trainings !!! </h1>
+<h1> CICD Project
 
-<h1> Now devops job market is good.. all the best </h1>
+<h1> Spin up a Jenkins server and install maven 
 
-<h1> All the best.................... </h1>
+<h1> Spin a Tomacat server, change the port that it talks to.
 
-<h1> Tomorrow we will be having 2nd project Migrations and 3rd project which is Kubernetes Project.................... </h1>
+<h1> modify to access manager. 
+  
+<h1> Give the script credentials on the jenkins server
+
+</h1>
 
 
 
