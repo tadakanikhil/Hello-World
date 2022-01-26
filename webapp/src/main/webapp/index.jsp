@@ -5,6 +5,8 @@
 <h1> Spin a Tomacat server, change the port that it talks to.
 
 <h1> creating a merge conflict 1  
+
+<h1> Creating a merge conflict 2 into 1  
   
 <h1> Give the script credentials on the jenkins server
   
